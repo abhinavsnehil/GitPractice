@@ -1,1 +1,2 @@
 This is sample file
+Git revert in this file as well.
