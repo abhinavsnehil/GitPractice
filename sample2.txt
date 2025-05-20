@@ -1,2 +1,3 @@
 This is another sample file
 Doing git revert
+This is for comparison in this file
