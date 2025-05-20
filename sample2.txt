@@ -1,3 +1,4 @@
 This is another sample file
 Doing git revert
 This is for comparison in this file
+This is all about learning stash,change in file2
